@@ -1,0 +1,6 @@
+# dependencies
+front/node_modules
+venv/Include
+venv/Lib
+venv/Scripts
+venv/tcl
